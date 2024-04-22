@@ -15,4 +15,4 @@ This study aimed to explore the impact of traumatic brain injury (TBI) on the vo
 ## Conclusion
 These findings underscore the importance of understanding the impact of TBI on hippocampal volume and cognitive function, particularly regarding gender differences, age and the role of gray matter.
 
-[Analysis](https://furkandanisman.github.io/TraumaticBrainInjury/Code/TBI.html)
+[Analysis](https://github.com/FurkanDanisman/TraumaticBrainInjury/blob/main/Code/TBI.html)
