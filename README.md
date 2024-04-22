@@ -16,4 +16,4 @@ revealed a significant positive correlation between gray matter volume and the v
 left hippocampus, suggesting the crucial role of gray matter in supporting hippocampal
 functions, especially in language and memory formation.
 
-[Analysis]((https://furkandanisman.github.io/TraumaticBrainInjury/TBI.html).)
+[Analysis](https://furkandanisman.github.io/TraumaticBrainInjury/Code/TBI.html)
