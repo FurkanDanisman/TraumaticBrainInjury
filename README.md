@@ -13,7 +13,7 @@ This study aimed to explore the impact of traumatic brain injury (TBI) on the vo
   - A significant positive correlation between gray matter volume and the left hippocampus volume was found, highlighting the role of gray matter in supporting hippocampal functions, especially in language and memory formation.
 
 ## Analysis
-To follow the steps behind the analysis and search through the output of the code, you may click [here.]((https://furkandanisman.github.io/TraumaticBrainInjury/Code/TBI.html))
+To follow the steps behind the analysis and search through the output of the code, you may click [here.](https://furkandanisman.github.io/TraumaticBrainInjury/Code/TBI.html)
 
 ## Conclusion
 These findings underscore the importance of understanding the impact of TBI on hippocampal volume and cognitive function, particularly regarding gender differences, age and the role of gray matter.
