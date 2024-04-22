@@ -9,7 +9,7 @@ This study aimed to explore the impact of traumatic brain injury (TBI) on the vo
 ## Results
   - Compared to the control group, the patient group exhibited a significant downward trend in hippocampal volume post-injury.
   - Gender influences the process of hippocampal volume change, with males experiencing a faster rate of decline as they age.
-  - Age is highly more significant for males compared to females. (50 year old female patient has a similar left hippocampus volume size as male with late 20's.)
+  - Age is highly more significant for males compared to females. (A 50-year-old female patient has a similar left hippocampus volume size as a male in his late 20's.)
   - A significant positive correlation between gray matter volume and the left hippocampus volume was found, highlighting the role of gray matter in supporting hippocampal functions, especially in language and memory formation.
 
 ## Conclusion
