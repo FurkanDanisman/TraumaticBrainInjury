@@ -5,6 +5,8 @@ hippocampus and its changes over time while also examining how cognitive recover
 data analysis of 155 participants (including 94 patients and 21 control group members), we
 used linear mixed-effects models to handle repeated measures in the dataset and applied Wald
 tests to assess the impact of various factors.
+
+
 The results show that compared to the control group, patient group exhibited a significant
 downward trend in hippocampal volume after injury. However, this rate of decrease did not
 significantly differ from the control group over time. Additionally, the analysis found that
